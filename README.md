@@ -13,7 +13,7 @@ Open the project folder in your preferred code editor, such as Visual Studio Cod
 
 Option 2: Clone the Repository
 # Clone the repository
-=> git clone https://github.com/your-username/your-repository.git
+=> git clone https://github.com/Aakash5209/e-commerce-REST-API.git
 
 # Navigate to the project directory
 => cd your-repository/src
