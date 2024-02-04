@@ -25,7 +25,7 @@ Inside the src folder, install project dependencies
 # Run the Project
 Ensure you are in the src folder, then run the project
 => node app.js
-
+# Postman Collection Link: [ https://go.postman.co/workspace/e186cd22-0fbb-4592-85ad-df2bb65ee032/collection/31759053-3bc6b748-3549-44d0-b531-d0981d2bcc5c ]
 # API Endpoints:-
 The API will be available at http://localhost:5000/
 
