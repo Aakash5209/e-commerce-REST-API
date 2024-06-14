@@ -4,7 +4,7 @@
 Ensure that you have Node.js installed on your system. If not, you can download it from Node.js official website.
 
 # Getting Started
-Option 1: Download and Extract
+# Option 1: Download and Extract
 Download the project from the GitHub repository.
 
 Extract the downloaded zip file to your desired location.
@@ -100,4 +100,5 @@ Users can update the details of a variant within a product by making a PUT reque
 # Delete Variant: 
 Users can delete a variant within a product by making a DELETE request to the /products/:productId/variants/:variantId endpoint, where :productId is the unique identifier of the product and :variantId is the unique identifier of the variant.
 
-Overall, this API serves as the backend for managing products and their variants in an e-commerce system, providing essential functionality for creating, retrieving, updating, and deleting data. The search functionality enhances the user experience by enabling efficient product discovery based on search queries. Developers can run tests to ensure the reliability of the implemented features.
+Overall, this API serves as the backend for managing products and their variants in an e-commerce system, providing essential functionality for creating, retrieving, updating, and deleting data. The search functionality enhances the user experience by enabling efficient product discovery based on search queries. Developers can run tests to ensure the reliability of th![git basic](https://github.com/Aakash5209/e-commerce-REST-API/assets/56769552/332fa10b-3215-4a04-b432-165f7739c5f1)
+e implemented features.
